@@ -191,6 +191,7 @@ section {
 		padding: 20px 0 !important;
 		font-size: 20px;
 	}
+	.carousel-item p { font-size: 20px; }
 }
 
 
