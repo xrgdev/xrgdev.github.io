@@ -59,6 +59,8 @@ section {
 .navbar-toggler:focus { outline: none; }
 
 
+.search-box { width: 150px !important; }
+
 /* Carousel */
 
 #carousel {
@@ -182,6 +184,24 @@ section {
 #footer .list-inline .list-inline-item  {
 	padding: 10px 15px;
 }
+
+
+
+#top-image .container {
+	position: relative;
+	max-height: 400px;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#top-image .container img {
+	object-fit: cover;
+	min-height: 100%;
+}
+
+
 
 @media (max-width: 575.98px) { 
 	h1 { font-size: 40px; line-height: normal; }
