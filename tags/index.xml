@@ -5,10 +5,6 @@
     <link>http://guiabio.com/tags/</link>
     <description>Recent content in Tags on GuíaBio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    
-	<atom:link href="http://guiabio.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>es</language><atom:link href="http://guiabio.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
