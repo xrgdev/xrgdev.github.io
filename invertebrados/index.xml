@@ -6,7 +6,11 @@
     <description>Recent content in Invertebrados on GuíaBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Nov 2020 17:24:31 +0100</lastBuildDate><atom:link href="http://guiabio.com/invertebrados/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 17:24:31 +0100</lastBuildDate>
+    
+	<atom:link href="http://guiabio.com/invertebrados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Grillo</title>
       <link>http://guiabio.com/invertebrados/grillo/</link>
