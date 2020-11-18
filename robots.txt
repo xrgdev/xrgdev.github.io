@@ -12,8 +12,6 @@ Sitemap: http://guiabio.com/sitemap.xml
 # some misbehaved spiders out there that go _way_ too fast. If you're
 # irresponsible, your access to the site may be blocked.
 #
-User-agent: Mediapartners-Google*
-Disallow:
 
 User-agent: Orthogaffe
 Disallow: /
