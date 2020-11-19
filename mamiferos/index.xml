@@ -8,12 +8,23 @@
     <language>es</language>
     <lastBuildDate>Fri, 13 Nov 2020 17:24:31 +0100</lastBuildDate><atom:link href="http://guiabio.com/mamiferos/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dugongo</title>
+      <link>http://guiabio.com/mamiferos/dugongo/</link>
+      <pubDate>Thu, 19 Nov 2020 21:52:27 +0100</pubDate>
+      
+      <guid>http://guiabio.com/mamiferos/dugongo/</guid>
+      <description>El dugongo o dugón (Dugong dugon) es la especie más pequeña dentro del orden de los sirénidos, y es el único que queda de su familia después de la extinción de la vaca marina de Steller (Hydrodamalis gigas).
+Los dugongos suelen vivir solos, en parejas o, a lo sumo, en pequeños grupos.
+Los dugongos están considerados como una especie vulnerable, en parte por por su lento ritmo de reproducción, lo que los hace más susceptibles a las amenazas del hombre.</description>
+    </item>
+    
+    <item>
       <title>Manatí</title>
       <link>http://guiabio.com/mamiferos/manati/</link>
       <pubDate>Thu, 19 Nov 2020 19:24:26 +0100</pubDate>
       
       <guid>http://guiabio.com/mamiferos/manati/</guid>
-      <description>Los manatíes (Trichechus), también conocidos como vacas marinas, son un género de grandes mamíferos acuáticos. Forman la orden de los sirénidos junto con los dugongs (Dugong dugon). A pesar de que puede parecer que los manatíes están estrechamente relacionados con las marsopas o las ballenas, en realidad su pariente más cercano es el elefante.
+      <description>Los manatíes (Trichechus), también conocidos como vacas marinas, son un género de grandes mamíferos acuáticos. Forman la orden de los sirénidos junto con los dugongos (Dugong dugon). A pesar de que puede parecer que los manatíes están estrechamente relacionados con las marsopas o las ballenas, en realidad su pariente más cercano es el elefante.
 Hábitat Actualmente solo quedan tres especies de manatíes:
  Trichechus inunguis, o manatí amazónico Trichechus manatus, o manatí del caribe Trichechus senegalensis, o manatí africano  Las tres especies de manatíes están catalogadas de vulnerables.</description>
     </item>
