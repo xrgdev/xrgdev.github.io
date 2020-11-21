@@ -8,6 +8,16 @@
     <language>es</language>
     <lastBuildDate>Fri, 13 Nov 2020 17:24:41 +0100</lastBuildDate><atom:link href="http://guiabio.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mapache</title>
+      <link>http://guiabio.com/mamiferos/mapache/</link>
+      <pubDate>Sat, 21 Nov 2020 11:21:00 +0100</pubDate>
+      
+      <guid>http://guiabio.com/mamiferos/mapache/</guid>
+      <description>Los mapaches (Procyon) son unos pequeños mamíferos también conocidos como osos lavadores. Los mapaches son originarios de América, aunque recientemente han sido introducido en Europa y Japón. Es un poco más grande y corpulento que un gato. Suelen alcanzar una longitud de entre medio metro y un metro (incluyendo la cola) y pesan entre 5 y 15 kg.
+Especies de mapache Los mapaches son especies cercanas a los Bassariscus y los coatís (Nasua nasua).</description>
+    </item>
+    
+    <item>
       <title>Mosquito tigre</title>
       <link>http://guiabio.com/invertebrados/mosquito-tigre/</link>
       <pubDate>Fri, 20 Nov 2020 15:37:38 +0100</pubDate>
@@ -55,7 +65,7 @@ Características El cuerpo de la avispa de mar tiene forma cuadrada. Del cuerpo 
       <pubDate>Thu, 19 Nov 2020 11:01:02 +0100</pubDate>
       
       <guid>http://guiabio.com/anfibios/rana-flecha-azul/</guid>
-      <description>La rana flecha azul (Dendrobates azureus) es un anfibio de la familia de las ranas. Es una rana muy peligrosa que no debe ser tocada ya que tu piel es tóxica y segrega veneno.
+      <description>La rana flecha azul (Dendrobates azureus) es un anfibio de la familia de las ranas. Es una rana muy peligrosa que no debe ser tocada ya que su piel es tóxica y segrega veneno.
 Hábitat y alimentación Esta rana vive en América del Sur, en concreto en el sur de Surinam y el norte de Brasil. Su hábitat oscila entre los 300 y los 400 metros de altura sobre el nivel del mar.</description>
     </item>
     
@@ -196,7 +206,7 @@ GuiaBio.com puede modificar este acuerdo en cualquier momento, y dicha modificac
       <pubDate>Fri, 13 Nov 2020 17:24:31 +0100</pubDate>
       
       <guid>http://guiabio.com/politica-de-cookies/</guid>
-      <description>Este portal, al igual que la mayoría de portales en Internet, usa cookies para mejorar la experiencia de navegación del usuario. Las cookies personalizan los servicios que ofrece el sitio web, ofreciendo a cada usuario información que puede ser de su interés, en atención al uso que realiza de este portal. A continuación encontrará información sobre qué son las cookies, qué tipo de cookies utiliza este portal, cómo puede desactivar las cookies en su navegador o cómo desactivar específicamente la instalación de cookies de terceros y qué ocurre en caso de deshabilitarlas.</description>
+      <description>Este sitio web, al igual que la mayoría de portales en Internet, usa cookies para mejorar la experiencia de navegación del usuario. Las cookies personalizan los servicios que ofrece el sitio web, ofreciendo a cada usuario información que puede ser de su interés, en atención al uso que realiza de este portal. A continuación encontrará información sobre qué son las cookies, qué tipo de cookies utiliza este portal, cómo puede desactivar las cookies en su navegador o cómo desactivar específicamente la instalación de cookies de terceros y qué ocurre en caso de deshabilitarlas.</description>
     </item>
     
   </channel>
