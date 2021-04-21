@@ -5,6 +5,10 @@
     <link>http://guiabio.com/categories/</link>
     <description>Recent content in Categories on GuíaBio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="http://guiabio.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    
+	<atom:link href="http://guiabio.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

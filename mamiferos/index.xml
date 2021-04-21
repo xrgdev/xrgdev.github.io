@@ -6,7 +6,11 @@
     <description>Recent content in Mamíferos on GuíaBio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 13 Nov 2020 17:24:31 +0100</lastBuildDate><atom:link href="http://guiabio.com/mamiferos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 17:24:31 +0100</lastBuildDate>
+    
+	<atom:link href="http://guiabio.com/mamiferos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Zarigüeya</title>
       <link>http://guiabio.com/mamiferos/zarigueya/</link>
@@ -23,7 +27,7 @@ Hábitat y alimentación Las zarigüeyas son animales extremadamente adaptables 
       <pubDate>Sat, 21 Nov 2020 13:50:49 +0100</pubDate>
       
       <guid>http://guiabio.com/mamiferos/delfin-rosado/</guid>
-      <description>El nombre científico del delfín rosado es Inia geoffrensis, es una especie de mamífero cetáceo odontoceto, también llamado boto, bufeo, delfín del Amazonas o tonina. Se localiza en ríos de Sudamérica y es el más grande de los delfines de río.
+      <description>El nombre científico del delfín rosado es Inia geoffrensis. Es una especie de mamífero cetáceo odontoceto, también llamado boto, bufeo, delfín del Amazonas o tonina. Se localiza en ríos de Sudamérica y es el más grande de los delfines de río.
 Características El delfín rosado es el más grande de aguas dulces, el macho mide alrededor de 2,5 metros y puede llegar a pesar los 185 kg y la hembra mide unos 2 metros y pesa unos 100 kg.</description>
     </item>
     
